@@ -1,0 +1,22 @@
+.list{
+    color: #fff;
+    width: 300px;
+    margin: 20px auto;
+    height: 50px;
+    background-color: #bf07ac;
+    border-radius: 5px; 
+}
+.list p{
+    background-color: #bf07ac; 
+    border-radius: 5px;  
+    position: relative;
+}
+.fas{  
+    color: #a7c5eb;
+    position: absolute;
+    right: 15px;
+    top: 5px;
+}
+.fas:hover{
+    cursor: pointer;
+}
